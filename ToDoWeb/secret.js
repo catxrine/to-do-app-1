@@ -1,0 +1,1 @@
+const topSecret = "Hello!";
